@@ -12,6 +12,10 @@
   },
   "permissions": [
     "activeTab",
-    "https://ajax.googleapis.com/"
+    "https://ajax.googleapis.com/",
+    "bookmarks",
+  "http://www.blogger.com/",
+  "http://*.google.com/",
+  "unlimitedStorage"
   ]
 }
